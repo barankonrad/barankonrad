@@ -9,7 +9,7 @@ These are some of the technologies and tools I'm familiar with:
 
 
 # What am I currently learning? 📝
-I am currently focusing on:
+I am currently focused on:
 
  - algorithms and data structures
  - database systems and MSSQL
