@@ -1,5 +1,5 @@
 # Hey, I'm Konrad!👋
-I'm a second-year Computer Science student at the Jagiellonian University, Faculty of Mathematics and Computer Science 🎓
+I'm a second-year Computer Science student at the Jagiellonian University, Faculty of Mathematics and Computer Science 🎓\
 Constantly developing my skills and interests!
 
 These are some of the technologies and tools I'm familiar with:
