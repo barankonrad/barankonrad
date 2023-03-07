@@ -11,9 +11,9 @@ These are some of the technologies and tools I'm familiar with:
 # What am I currently learning? 📝
 I am currently focused on:
 
- - algorithms and data structures
+ - Java project, using database, API and project patterns
  - database systems and MSSQL
- - Kolmogorov complexity
+ - numerical analysis
 
 
 
