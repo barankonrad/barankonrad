@@ -1,34 +1,31 @@
 # Hey, I'm Konrad!👋
-I'm a second-year Computer Science student at the Jagiellonian University, Faculty of Mathematics and Computer Science 🎓\
-Constantly developing my skills and interests!
+#### ...and here is a bit about me!
+- ⌨️ <b>Java</b> software developer
+- 🎓 Computer Science at <b>Jagiellonian University</b>, Faculty of Mathematics and Computer Science 
+- 🛠️ Always open to new technologies
+- ⚡ Constantly developing my skills and interests!
+- 📖 Currently reading "Clean code" by Uncle Bob
+- 👟 Passionate runner
+- 📬 Reach out to me [here](https://linkedin.com/in/konradbaran)!
 
-# Technologies & tools 🛠️
-These are some of the technologies and tools I'm familiar with:
-
-![Currently my favourite](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)![Few years of basic CPP](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)![MSSQL and database managment](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)![Done a few documents](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)![Currently my daily for Java](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)![Been using it for years](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![Familiar with Jira platform](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-
-
-
-# What am I currently learning? 📝
-I am currently focused on:
-
- - Java project, using database, API and project patterns
- - database systems and MSSQL
- - numerical analysis
-
-
-
-<!--
-**barankonrad/barankonrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Technologies & tools I've worked with
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-023535?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="Maven" src="https://img.shields.io/badge/Maven-023535?style=for-the-badge&logo=apache-maven&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-023535?style=for-the-badge&logo=spring&logoColor=white" />
+  <img alt="CPP" src="https://img.shields.io/badge/CPP-023535?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="CPP" src="https://img.shields.io/badge/Python-023535?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-023535?style=for-the-badge&logo=git&logoColor=white" />
+  <br>
+  <img alt="MSSQL" src="https://img.shields.io/badge/MSSQL-015958?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-015958?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Intellij IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-015958?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-015958?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-015958?style=for-the-badge&logo=jira&logoColor=white" />
+  <br>
+  <img alt="Latex" src="https://img.shields.io/badge/Latex-008F8C?style=for-the-badge&logo=latex&logoColor=white" />
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-008F8C?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-008F8C?style=for-the-badge&logo=postman&logoColor=white" />
+  <img alt="JUnit" src="https://img.shields.io/badge/JUnit-008F8C?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img alt="Cucumber" src="https://img.shields.io/badge/Cucumber-008F8C?style=for-the-badge&logo=cucumber&logoColor=white" />
+</p>
